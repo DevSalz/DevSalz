@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DevSalz
-- 👀 I’m interested in Web and Cybersecurity Development
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
+- 👋 Hi, I’m @Salzilein
+- 👀 I’m interested Cybersecurity Development
+- 🌱 I’m currently learning Python, C, Go
 - 📫 How to reach me? Write me an discord DM (salzistange)
 - ⚡ Fun fact: I am an learner, but i have one student
 
