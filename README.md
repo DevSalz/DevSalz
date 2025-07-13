@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DevSalz
-- 👀 I’m interested Cybersecurity Development and Discord Bot Development
-- 🌱 I’m currently learning Python and C
+- 👋 Hi, I’m @Ralf
+- 👀 I’m interested in Discord Bots and Desktop Applications
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me? Write me an discord DM (salzistange)
-- ⚡ Fun fact: I am an learner, but i have one student
+- ⚡ Fun fact: Ralf isn´t my real name and I learn lanuages easier when I learn a dependenci or something extra to it.
 
 <!---
 DevSalz/DevSalz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
